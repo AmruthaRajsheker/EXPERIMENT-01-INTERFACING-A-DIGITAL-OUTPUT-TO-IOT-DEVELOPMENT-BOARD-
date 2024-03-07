@@ -40,6 +40,7 @@ The main features of LPC2148 include the following.
  
 
 ## Procedure:
+
  1. click on STM 32 CUBE IDE, the following screen will appear 
  ![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png)
 
@@ -80,8 +81,9 @@ The main features of LPC2148 include the following.
 12. connect the stm nucleo board and click on run 
 ![image](https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png)
 
-# 
-#
+
+<br/>
+<br/>
 
 ## STM 32 CUBE PROGRAM :
 ```
