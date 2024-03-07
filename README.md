@@ -84,8 +84,12 @@ The main features of LPC2148 include the following.
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 ## STM 32 CUBE PROGRAM :
+
 ```
 #include "main.h"
 void SystemClock_Config(void); static void MX_GPIO_Init(void);
@@ -102,6 +106,7 @@ int main(void)
 }
 
 ```
+
 ## OUTPUT  :
 ![exp1](https://github.com/AmruthaRajsheker/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119475943/eef0ed3f-9266-4be6-952a-14dba56435ba)
 
