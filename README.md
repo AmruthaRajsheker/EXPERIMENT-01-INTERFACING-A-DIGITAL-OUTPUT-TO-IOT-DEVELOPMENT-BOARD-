@@ -80,8 +80,8 @@ The main features of LPC2148 include the following.
 12. connect the stm nucleo board and click on run 
 ![image](https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png)
 
-![image](https://github.com/AmruthaRajsheker/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119475943/23cf0fcb-1a3a-4acf-a2d6-fc99bcc6b0ee)
-
+# 
+#
 
 ## STM 32 CUBE PROGRAM :
 ```
